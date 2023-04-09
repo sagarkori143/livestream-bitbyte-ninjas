@@ -1,0 +1,7 @@
+.container{
+    background: url(newimage.jpg);
+    <img src="newimage.jpg">
+}
+.left{
+    border: solid red 8px;
+}
